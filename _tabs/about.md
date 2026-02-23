@@ -4,68 +4,49 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-
-Ben **Hüseyin Yöntem.**
+## Ben Hüseyin Yöntem
 
 **Siber Güvenlik** ve **Network** Uzmanıyım.
 
 2006 yılından bu yana bilişim sektöründe farklı firma ve kurumlarda aktif olarak görev almaktayım. 2015 yılından itibaren uzmanlık odağımı **Siber Güvenlik** ve **Ağ Teknolojileri** üzerine yoğunlaştırdım ve bu alanda teknik yetkinliğimi derinleştirdim.
 
-Şu anda özel bir şirkette, kurulum ve devreye alma süreçleri, arıza analizi ve problem çözümü ile altyapı tasarımı ve projelendirme konularında alan uzmanı olarak destek vermekteyim.
+Şu anda özel bir şirkette; kurulum ve devreye alma süreçleri, arıza analizi, problem çözümü ile altyapı tasarımı ve projelendirme konularında alan uzmanı olarak destek vermekteyim.
 
-### **🚀 Uzmanlık Alanım**
+---
+
+### 🚀 Uzmanlık Alanım
 
 Ağ mimarisi tasarımı, güvenlik katmanlarının kurgulanması ve ölçeklenebilir altyapıların oluşturulması temel çalışma alanlarımı oluşturur.
 
-Uzmanlık başlıklarım:
+- **Network:** Tasarım, optimizasyon ve kurumsal projelendirme.
+- **Güvenlik:** Firewall çözümleri, URL filtreleme ve içerik güvenliği.
+- **Analiz:** Sızma testi, güvenlik analizleri ve problem çözümü.
+- **Wireless:** Scalable WLAN tasarımı ve uygulamaları.
 
--   Network tasarımı ve optimizasyonu
+---
 
--   Firewall ve güvenlik çözümleri
+### 🎓 Eğitim ve Sertifikalar
 
--   Sızma testi ve güvenlik analizleri
+Sektördeki teknik yetkinliğimi belgeleyen başlıca sertifika ve eğitimlerim:
 
--   Kurumsal ağ projelendirme
+| Kategori | Sertifika / Eğitim |
+| :--- | :--- |
+| **Fortinet** | NSE 7 – Network Security Architect |
+| **Fortinet** | NSE 1, 2, 3 – Network Security Associate |
+| **Fortinet** | FortiMail Specialist |
+| **Cisco** | CCNP Route & CCNA |
+| **Network Security** | CNSS – Certified Network Security Specialist |
+| **Huawei** | HCNP Security |
+| **Palo Alto** | Best Practices on URL Filtering & Core Training |
+| **Wireless** | Scalable WLAN Design and Implementation (SWDI) |
+| **Diğer** | Sızma Testi Uzmanlığı & Check Point Eğitimleri |
 
--   WLAN tasarımı ve ölçeklenebilir kablosuz çözümler
+---
 
--   URL filtreleme ve içerik güvenliği
+### 🌐 Bağlantılar
 
-Teknik konuların yanında, iş ihtiyaçlarını doğru analiz ederek güvenli ve sürdürülebilir çözümler üretmeye odaklanırım.
+Benimle aşağıdaki platformlar üzerinden iletişime geçebilirsiniz:
 
-### **🎓 Eğitim ve Sertifikalar**
-
-Aldığım bazı eğitim ve sertifikalar:
-
--   **CNSS – Certified Network Security Specialist**
-
--   **NSE 7 – Network Security Architect**
-
--   **NSE 3 – Network Security Associate**
-
--   **NSE 2 – Network Security Associate**
-
--   **NSE 1 – Network Security Associate**
-
--   **FortiMail**
-
--   **Introduction to IT & Cybersecurity**
-
--   **Palo Alto URL Filtreleme ile İlgili En İyi Uygulamalar**
-
--   **Palo Alto Networks Eğitimi**
-
--   **Scalable WLAN Design and Implementation (SWDI)**
-
--   **CCNA**
-
--   **CCNP Route**
-
--   **HCNP Security**
-
--   **Sızma Testi Uzmanlığı**
-
--   **Check Point Eğitimleri**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyinyontem)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huseyinyontem)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hyontem)
