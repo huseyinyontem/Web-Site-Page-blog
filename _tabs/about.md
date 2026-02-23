@@ -68,6 +68,8 @@ Aldığım bazı eğitim ve sertifikalar:
 -   **Sızma Testi Uzmanlığı**
 
 -   **Check Point Eğitimleri**
+
+  
 ---
 
 ### 🌐 Bağlantılar
