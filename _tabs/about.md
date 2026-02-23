@@ -6,7 +6,7 @@ Ben **Hüseyin Yöntem.**
 
 Şu anda özel bir şirkette, kurulum ve devreye alma süreçleri, arıza analizi ve problem çözümü ile altyapı tasarımı ve projelendirme konularında alan uzmanı olarak destek vermekteyim.
 
-### [](https://www.huseyinyontem.com/About#30efa28dfaa7803a8801fc49ea134b77 "🚀 Uzmanlık Alanım")**🚀 Uzmanlık Alanım**
+### **🚀 Uzmanlık Alanım**
 
 Ağ mimarisi tasarımı, güvenlik katmanlarının kurgulanması ve ölçeklenebilir altyapıların oluşturulması temel çalışma alanlarımı oluşturur.
 
@@ -26,7 +26,7 @@ Uzmanlık başlıklarım:
 
 Teknik konuların yanında, iş ihtiyaçlarını doğru analiz ederek güvenli ve sürdürülebilir çözümler üretmeye odaklanırım.
 
-### [](https://www.huseyinyontem.com/About#30efa28dfaa780c18a47d7ba2a4ad1da "🎓 Eğitim ve Sertifikalar")**🎓 Eğitim ve Sertifikalar**
+### **🎓 Eğitim ve Sertifikalar**
 
 Aldığım bazı eğitim ve sertifikalar:
 
