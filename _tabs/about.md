@@ -33,6 +33,7 @@ Uzmanlık başlıklarım:
 -   URL filtreleme ve içerik güvenliği
 
 Teknik konuların yanında, iş ihtiyaçlarını doğru analiz ederek güvenli ve sürdürülebilir çözümler üretmeye odaklanırım.
+
 ---
 
 ### 🎓 Eğitim ve Sertifikalar
